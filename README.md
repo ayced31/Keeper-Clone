@@ -13,3 +13,13 @@ Through building this app, I've honed my skills in:
 6. React Dependencies: Integrating external libraries like Material-UI for UI components, expanding the app's functionality while maintaining dependency management.
 
 I am excited to continue learning and refining my React skills! 🚀💻 #ReactJS #WebDevelopment #ProjectShowcase
+
+<br>
+
+To run this locally 
+
+1. Open Git bash
+2. Copy & paste: `git clone https://github.com/ayced31/Keeper-Clone/`
+3. `cd Keeper-Clone`
+4. `npm install`
+5. `npm run dev`
